@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm Dimitri, a passionate Cyber Security Analyst with a focus on Threat Detection, Incident Response, SOC & SIEM Operations, and AI-driven Security Automation.
+
+🚀 Currently expanding my skills through hands-on projects in SOC/SIEM solutions, Threat Hunting, Cloud Security, and Security Automation with Python and PowerShell.
+
+🔎 I share my journey and practical experiences in my GitHub repositories and on my Medium account.
+
+💬 Feel free to connect if you want to discuss Cyber Security, SOC operations, or collaborate on security projects!
+
 
 <!--
 **dimitri-reimchen/dimitri-reimchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
